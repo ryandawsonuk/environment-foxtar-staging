@@ -12,7 +12,7 @@ dependencies:
   version: 1.0.16
 - name: ttc-connectors-reward
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.5
+  version: 1.0.6
 - name: ttc-connectors-ranking
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.5
