@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: ttc-rb-english-campaign
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.12
+  version: 1.0.15
 - name: ttc-connectors-reward
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.3
