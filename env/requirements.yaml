@@ -22,3 +22,9 @@ dependencies:
 - name: ttc-connectors-dummytwitter
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.6
+- name: rabbitmq
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 0.8.0
+- name: postgresql
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 0.11.0
